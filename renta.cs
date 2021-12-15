@@ -8,5 +8,8 @@ namespace Primera_fachada
 {
     class renta
     {
+        //ggggggggggggggggggggg
+        //ggggggggggggggggggggggggggggg
+        //ggggg
     }
 }
